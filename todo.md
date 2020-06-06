@@ -1,0 +1,6 @@
+-> Scan code barre ( lecteur code barre ou camera )
+-> colis depose + lock + validation capteur
+-> Generation QRCode sur base des datas du code barre + date + adresse + token de l'app
+-> generation pdf attestion hoste sur un serveur
+-> affiche le qrcode ( pour livreur ) -> lien vers l'attestation
+-> envoi mail (pour receveur) (opt.)
